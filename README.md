@@ -2,7 +2,7 @@
 
 ![WOLF-Mart](https://raw.githubusercontent.com/MahmoudMattar/Wolf-Mart/master/public/snapshot.png)
 
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a [React.js](https://reactjs.org/) project bootstrapped with [`create-react-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
 
