@@ -1,6 +1,6 @@
 ### [Live Site](https://challenge-31a2b.web.app/)
 
-![WOLF-Mart](https://raw.githubusercontent.com/MahmoudMattar/wolf-mart/main/public/snapshot.png?token=AQCGGJEOZC5DC72RJQ67F5DBIMETY)
+![WOLF-Mart](https://raw.githubusercontent.com/MahmoudMattar/Wolf-Mart/master/public/snapshot.png)
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
